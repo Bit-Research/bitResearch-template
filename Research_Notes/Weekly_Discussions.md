@@ -1,1 +1,1 @@
-Add points for discussed and action items
+Records weekly discussions, decisions, action items, blockers, and next steps.
